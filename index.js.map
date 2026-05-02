@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/js/main.js"],"sourcesContent":["import '../css/styles.css';\n\nimport { getImagesByQuery } from './pixabay-api.js';\nimport {\n  createGallery,\n  clearGallery,\n  showLoader,\n  hideLoader,\n} from './render-functions.js';\n\nconsole.log('Homework 3 setup is ready');\n"],"names":[],"mappings":"ssBAUA,QAAQ,IAAI,2BAA2B"}
